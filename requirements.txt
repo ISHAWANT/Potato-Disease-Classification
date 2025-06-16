@@ -1,4 +1,7 @@
-tensorflow 
+tensorflow==2.19.0
 matplotlib
 numpy 
-notebook
+notebook 
+ipykernel 
+scikit-learn
+pandas
